@@ -1,0 +1,5212 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.16799873819817,
+          6.802748427346232
+        ]
+      },
+      "properties": {
+        "FID": 0,
+        "OBJECTID_1": 1,
+        "Name": "Broad St",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 216.157310455,
+        "Country": "Guyana",
+        "Open_Close": 0,
+        "ORIG_FID": 0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.941439819093416,
+          -4.67392525539073
+        ]
+      },
+      "properties": {
+        "FID": 1,
+        "OBJECTID_1": 2,
+        "Name": "Boukoulibouali",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 18077.5295619,
+        "Country": "Rep of Congo",
+        "Open_Close": 0,
+        "ORIG_FID": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.183414598305701,
+          27.146316616372214
+        ]
+      },
+      "properties": {
+        "FID": 2,
+        "OBJECTID_1": 3,
+        "Name": "Al Wahda",
+        "Yr_Mapped": 2009,
+        "Shape_Area": 31.5246429607,
+        "Country": "Western Sahara",
+        "Open_Close": 0,
+        "ORIG_FID": 2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.500259216756636,
+          3.867693220069551
+        ]
+      },
+      "properties": {
+        "FID": 3,
+        "OBJECTID_1": 4,
+        "Name": "Melen",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 6959.35490833,
+        "Country": "Cameroon",
+        "Open_Close": 0,
+        "ORIG_FID": 3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.735294262282807,
+          4.059499681218472
+        ]
+      },
+      "properties": {
+        "FID": 4,
+        "OBJECTID_1": 5,
+        "Name": "Makepe Missoke",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4943.42785166,
+        "Country": "Cameroon",
+        "Open_Close": 0,
+        "ORIG_FID": 4
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.086229945766076,
+          27.469970042094086
+        ]
+      },
+      "properties": {
+        "FID": 5,
+        "OBJECTID_1": 6,
+        "Name": "Rabounit Saharawai Refugees Camp",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 5586.69800054,
+        "Country": "Algeria",
+        "Open_Close": 0,
+        "ORIG_FID": 5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.106093350806574,
+          -26.090184707919192
+        ]
+      },
+      "properties": {
+        "FID": 6,
+        "OBJECTID_1": 7,
+        "Name": "Alexandra",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3359.69567959,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.5214387363938,
+          0.31175878097666365
+        ]
+      },
+      "properties": {
+        "FID": 7,
+        "OBJECTID_1": 8,
+        "Name": "busega",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5263.19061263,
+        "Country": "Uganda",
+        "Open_Close": 0,
+        "ORIG_FID": 7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.546746371066377,
+          40.39153311500241
+        ]
+      },
+      "properties": {
+        "FID": 8,
+        "OBJECTID_1": 9,
+        "Name": "Canada Real",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 19287.4829677,
+        "Country": "Spain",
+        "Open_Close": 0,
+        "ORIG_FID": 8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.68085260883762,
+          -34.04191071170194
+        ]
+      },
+      "properties": {
+        "FID": 9,
+        "OBJECTID_1": 10,
+        "Name": "Khayelitsha",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2744.57987143,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1088004798404,
+          14.696930224646737
+        ]
+      },
+      "properties": {
+        "FID": 10,
+        "OBJECTID_1": 11,
+        "Name": "Bagong Silangan",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4539.42159181,
+        "Country": "Philippines",
+        "Open_Close": 0,
+        "ORIG_FID": 10
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04529493336705,
+          -11.812446521920734
+        ]
+      },
+      "properties": {
+        "FID": 11,
+        "OBJECTID_1": 12,
+        "Name": "Carabayllo",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 5195.63227584,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.84484904710648,
+          -33.92430082568363
+        ]
+      },
+      "properties": {
+        "FID": 12,
+        "OBJECTID_1": 13,
+        "Name": "Enkanini",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2617.4241722,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03239512588709,
+          -11.920103350965961
+        ]
+      },
+      "properties": {
+        "FID": 13,
+        "OBJECTID_1": 14,
+        "Name": "Comas",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 3984.68468438,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2674810929348,
+          -6.7960852084520145
+        ]
+      },
+      "properties": {
+        "FID": 14,
+        "OBJECTID_1": 15,
+        "Name": "Hanna Nassif",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 6425.73133149,
+        "Country": "Tanzania",
+        "Open_Close": 0,
+        "ORIG_FID": 14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3289228809730753,
+          6.494271773354984
+        ]
+      },
+      "properties": {
+        "FID": 15,
+        "OBJECTID_1": 16,
+        "Name": "Ijeshatedo",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 7083.06116144,
+        "Country": "Nigeria",
+        "Open_Close": 0,
+        "ORIG_FID": 15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.78847226857289,
+          -1.3143894543179073
+        ]
+      },
+      "properties": {
+        "FID": 16,
+        "OBJECTID_1": 17,
+        "Name": "Kibera",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 10600.2835352,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.249304096687794,
+          15.368055008406593
+        ]
+      },
+      "properties": {
+        "FID": 17,
+        "OBJECTID_1": 18,
+        "Name": "Kibuye",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 6722.37058771,
+        "Country": "Yemen",
+        "Open_Close": 0,
+        "ORIG_FID": 17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.53293623678763,
+          6.30306925878802
+        ]
+      },
+      "properties": {
+        "FID": 18,
+        "OBJECTID_1": 19,
+        "Name": "Manatiales de Paz",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 6694.28433681,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.85762457914441,
+          -1.2620847975436855
+        ]
+      },
+      "properties": {
+        "FID": 19,
+        "OBJECTID_1": 20,
+        "Name": "Mathere",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 7374.35526671,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.843386281891114,
+          -1.310680385628718
+        ]
+      },
+      "properties": {
+        "FID": 20,
+        "OBJECTID_1": 21,
+        "Name": "Muruko",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 6998.31673422,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 20
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.20053990402684194,
+          5.583844295562413
+        ]
+      },
+      "properties": {
+        "FID": 21,
+        "OBJECTID_1": 22,
+        "Name": "Nima",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 7379.42806858,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58069067729141,
+          6.318587368404093
+        ]
+      },
+      "properties": {
+        "FID": 22,
+        "OBJECTID_1": 23,
+        "Name": "New Jerusalem",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5817.4916858,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.57528766716233,
+          -33.870451021546195
+        ]
+      },
+      "properties": {
+        "FID": 23,
+        "OBJECTID_1": 24,
+        "Name": "Ibhayi",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 5966.92468811,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.27590646324554,
+          40.96651576053938
+        ]
+      },
+      "properties": {
+        "FID": 24,
+        "OBJECTID_1": 25,
+        "Name": "Sultanbeyli",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 29566.3309061,
+        "Country": "Turkey",
+        "Open_Close": 0,
+        "ORIG_FID": 24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.98466763484181,
+          -12.000514834993528
+        ]
+      },
+      "properties": {
+        "FID": 25,
+        "OBJECTID_1": 26,
+        "Name": "Tahuantinsuyo",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7095.54270895,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80633408463841,
+          17.98528284900978
+        ]
+      },
+      "properties": {
+        "FID": 26,
+        "OBJECTID_1": 27,
+        "Name": "Trench Town",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4368.80811277,
+        "Country": "Jamaica",
+        "Open_Close": 0,
+        "ORIG_FID": 26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.74321597161325,
+          -23.544138723396973
+        ]
+      },
+      "properties": {
+        "FID": 27,
+        "OBJECTID_1": 28,
+        "Name": "Favela Vila Nova Jaguare",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4260.09574582,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.95248099821181,
+          -12.22794447903384
+        ]
+      },
+      "properties": {
+        "FID": 28,
+        "OBJECTID_1": 29,
+        "Name": "Villa El Salvador",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 3815.87211771,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16092690379323,
+          14.06170714886675
+        ]
+      },
+      "properties": {
+        "FID": 29,
+        "OBJECTID_1": 30,
+        "Name": "Villanueva",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 6604.08584374,
+        "Country": "Honduras",
+        "Open_Close": 0,
+        "ORIG_FID": 29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.60836986431407,
+          -23.450238975733406
+        ]
+      },
+      "properties": {
+        "FID": 30,
+        "OBJECTID_1": 31,
+        "Name": "Morro do Piolho",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4230.95341957,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 30
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.462215399063314,
+          0.40250481863816395
+        ]
+      },
+      "properties": {
+        "FID": 31,
+        "OBJECTID_1": 32,
+        "Name": "Venez Voir",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2660.19668781,
+        "Country": "Gabon",
+        "Open_Close": 0,
+        "ORIG_FID": 31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.740745439171064,
+          41.771074769496195
+        ]
+      },
+      "properties": {
+        "FID": 32,
+        "OBJECTID_1": 33,
+        "Name": "Vake Saburtalo",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 24139.6287855,
+        "Country": "Georgia",
+        "Open_Close": 0,
+        "ORIG_FID": 32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.18619943290874,
+          -16.466027563829417
+        ]
+      },
+      "properties": {
+        "FID": 33,
+        "OBJECTID_1": 34,
+        "Name": "Urbanizacion Mercurio",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 6084.2200099,
+        "Country": "Bolivia",
+        "Open_Close": 0,
+        "ORIG_FID": 33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.54649589247425,
+          -33.46639505870043
+        ]
+      },
+      "properties": {
+        "FID": 34,
+        "OBJECTID_1": 35,
+        "Name": "Toma de Pe\u00f1alol\u00e9n",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 14.9426556419,
+        "Country": "Chile",
+        "Open_Close": 0,
+        "ORIG_FID": 34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80056690051437,
+          17.97461082212649
+        ]
+      },
+      "properties": {
+        "FID": 35,
+        "OBJECTID_1": 36,
+        "Name": "Tivoli Gardens",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2733.22163983,
+        "Country": "Jamaica",
+        "Open_Close": 0,
+        "ORIG_FID": 35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.60912009750402,
+          17.970910921648553
+        ]
+      },
+      "properties": {
+        "FID": 36,
+        "OBJECTID_1": 37,
+        "Name": "Thong Khan Kham",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 1781.86350696,
+        "Country": "Laos",
+        "Open_Close": 0,
+        "ORIG_FID": 36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.348824534376995,
+          35.60196728808756
+        ]
+      },
+      "properties": {
+        "FID": 37,
+        "OBJECTID_1": 38,
+        "Name": "Tork Abad",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 8529.39710108,
+        "Country": "Iran",
+        "Open_Close": 0,
+        "ORIG_FID": 37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.82587337731091,
+          -13.936758386746611
+        ]
+      },
+      "properties": {
+        "FID": 38,
+        "OBJECTID_1": 39,
+        "Name": "Area 43",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 20294.514114,
+        "Country": "Malawi",
+        "Open_Close": 0,
+        "ORIG_FID": 38
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.238258896742394,
+          -6.790064148094929
+        ]
+      },
+      "properties": {
+        "FID": 39,
+        "OBJECTID_1": 40,
+        "Name": "Tandale",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4681.53545866,
+        "Country": "Tanzania",
+        "Open_Close": 0,
+        "ORIG_FID": 39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -13.001038629323755,
+          9.442597656481155
+        ]
+      },
+      "properties": {
+        "FID": 40,
+        "OBJECTID_1": 41,
+        "Name": "Tafori",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1552.20384873,
+        "Country": "Guinea",
+        "Open_Close": 0,
+        "ORIG_FID": 40
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.126842283528538,
+          13.493339987009088
+        ]
+      },
+      "properties": {
+        "FID": 41,
+        "OBJECTID_1": 42,
+        "Name": "Gamkale",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4323.91479292,
+        "Country": "Niger",
+        "Open_Close": 0,
+        "ORIG_FID": 41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.34983345947985,
+          27.692324212147742
+        ]
+      },
+      "properties": {
+        "FID": 42,
+        "OBJECTID_1": 43,
+        "Name": "Sinamangal",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1803.20403995,
+        "Country": "Nepal",
+        "Open_Close": 0,
+        "ORIG_FID": 42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40129005960798,
+          33.3336078016483
+        ]
+      },
+      "properties": {
+        "FID": 43,
+        "OBJECTID_1": 44,
+        "Name": "Sinak",
+        "Yr_Mapped": 2010,
+        "Shape_Area": 1245.4391446,
+        "Country": "Iraq",
+        "Open_Close": 0,
+        "ORIG_FID": 43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.517102297512155,
+          33.587792360163334
+        ]
+      },
+      "properties": {
+        "FID": 44,
+        "OBJECTID_1": 45,
+        "Name": "Sidi Moumen",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4116.90988076,
+        "Country": "Morocco",
+        "Open_Close": 0,
+        "ORIG_FID": 44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.33546273068599,
+          23.13296958767592
+        ]
+      },
+      "properties": {
+        "FID": 45,
+        "OBJECTID_1": 46,
+        "Name": "Shipai",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2467.2533937,
+        "Country": "China",
+        "Open_Close": 0,
+        "ORIG_FID": 45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.50447645071069,
+          10.642724920482824
+        ]
+      },
+      "properties": {
+        "FID": 46,
+        "OBJECTID_1": 47,
+        "Name": "Sea Lots",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2322.81453044,
+        "Country": "Trinidad and Tobago",
+        "Open_Close": 0,
+        "ORIG_FID": 46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.37595454023398,
+          39.885497412369794
+        ]
+      },
+      "properties": {
+        "FID": 47,
+        "OBJECTID_1": 48,
+        "Name": "Xuanwu District",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 1032.12037385,
+        "Country": "China",
+        "Open_Close": 0,
+        "ORIG_FID": 47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.29335847068619,
+          -34.890761798237335
+        ]
+      },
+      "properties": {
+        "FID": 48,
+        "OBJECTID_1": 49,
+        "Name": "Santa Catalina",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4992.99014246,
+        "Country": "Uruguay",
+        "Open_Close": 0,
+        "ORIG_FID": 48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.07235549794194,
+          32.50195590253474
+        ]
+      },
+      "properties": {
+        "FID": 49,
+        "OBJECTID_1": 50,
+        "Name": "San Angel",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1495.7953949,
+        "Country": "Mexico",
+        "Open_Close": 0,
+        "ORIG_FID": 49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.16786900419772,
+          36.782253231316304
+        ]
+      },
+      "properties": {
+        "FID": 50,
+        "OBJECTID_1": 51,
+        "Name": "Sayda El Manoubia",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 8210.24018483,
+        "Country": "Tunisia",
+        "Open_Close": 0,
+        "ORIG_FID": 50
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.172842916109364,
+          30.02695400301507
+        ]
+      },
+      "properties": {
+        "FID": 51,
+        "OBJECTID_1": 52,
+        "Name": "Saft  Al Laban",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7113.68812928,
+        "Country": "Egypt",
+        "Open_Close": 0,
+        "ORIG_FID": 51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.626206824040004,
+          -25.280497942896794
+        ]
+      },
+      "properties": {
+        "FID": 52,
+        "OBJECTID_1": 53,
+        "Name": "Dr Ricardo Burgada",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7674.89459574,
+        "Country": "Paraguay",
+        "Open_Close": 0,
+        "ORIG_FID": 52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.61867161291485,
+          12.948980393556692
+        ]
+      },
+      "properties": {
+        "FID": 53,
+        "OBJECTID_1": 54,
+        "Name": "Rajendra Nagar",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 949.320319383,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.17011264832277,
+          -9.482445222965096
+        ]
+      },
+      "properties": {
+        "FID": 54,
+        "OBJECTID_1": 55,
+        "Name": "Port Moresby",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2940.27753011,
+        "Country": "Papua New Guinea",
+        "Open_Close": 0,
+        "ORIG_FID": 54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55.20063877593036,
+          5.78407747087687
+        ]
+      },
+      "properties": {
+        "FID": 55,
+        "OBJECTID_1": 56,
+        "Name": "Pont Buiten",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7146.26854606,
+        "Country": "Suriname",
+        "Open_Close": 0,
+        "ORIG_FID": 55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.993317195929595,
+          12.672608424142101
+        ]
+      },
+      "properties": {
+        "FID": 56,
+        "OBJECTID_1": 57,
+        "Name": "Point G",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4635.85623659,
+        "Country": "Mali",
+        "Open_Close": 0,
+        "ORIG_FID": 56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.03910521023774,
+          33.63441578966035
+        ]
+      },
+      "properties": {
+        "FID": 57,
+        "OBJECTID_1": 58,
+        "Name": "Pirwadhai",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3267.95659981,
+        "Country": "Pakistan",
+        "Open_Close": 0,
+        "ORIG_FID": 57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.082183614349134,
+          12.076510199713686
+        ]
+      },
+      "properties": {
+        "FID": 58,
+        "OBJECTID_1": 59,
+        "Name": "Ngueli",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 14136.2141918,
+        "Country": "Chad",
+        "Open_Close": 0,
+        "ORIG_FID": 58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.263715001553145,
+          -8.8043958396444
+        ]
+      },
+      "properties": {
+        "FID": 59,
+        "OBJECTID_1": 60,
+        "Name": "Patrice Lumumba",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4667.33041651,
+        "Country": "Angola",
+        "Open_Close": 0,
+        "ORIG_FID": 59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.17964872955717,
+          15.344865692423827
+        ]
+      },
+      "properties": {
+        "FID": 60,
+        "OBJECTID_1": 61,
+        "Name": "Mehwa Haret Al-Lakma",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 856.896845526,
+        "Country": "Yemen",
+        "Open_Close": 0,
+        "ORIG_FID": 60
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.175203996608849,
+          32.89735900979291
+        ]
+      },
+      "properties": {
+        "FID": 61,
+        "OBJECTID_1": 62,
+        "Name": "Old City",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 2950.22333642,
+        "Country": "Libya",
+        "Open_Close": 0,
+        "ORIG_FID": 61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.58878543324424,
+          -25.939203636930483
+        ]
+      },
+      "properties": {
+        "FID": 62,
+        "OBJECTID_1": 63,
+        "Name": "Maxaquene",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 8493.74039584,
+        "Country": "Mozambique",
+        "Open_Close": 0,
+        "ORIG_FID": 62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.54666342957187,
+          15.46834481115477
+        ]
+      },
+      "properties": {
+        "FID": 63,
+        "OBJECTID_1": 64,
+        "Name": "Mandela",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1711.67512093,
+        "Country": "Sudan",
+        "Open_Close": 0,
+        "ORIG_FID": 63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.84171508464093,
+          39.854051139718464
+        ]
+      },
+      "properties": {
+        "FID": 64,
+        "OBJECTID_1": 65,
+        "Name": "Mahallesi",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1324.73476993,
+        "Country": "Turkey",
+        "Open_Close": 0,
+        "ORIG_FID": 64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3846793829503,
+          31.4232494891157
+        ]
+      },
+      "properties": {
+        "FID": 65,
+        "OBJECTID_1": 66,
+        "Name": "Al Maghazi",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7534.59090372,
+        "Country": "Palestine",
+        "Open_Close": 0,
+        "ORIG_FID": 65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.12404466757879,
+          -31.446496606379306
+        ]
+      },
+      "properties": {
+        "FID": 66,
+        "OBJECTID_1": 67,
+        "Name": "Los Artesanos",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1627.2913493,
+        "Country": "Argentina",
+        "Open_Close": 0,
+        "ORIG_FID": 66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.630275696044485,
+          32.69869715085642
+        ]
+      },
+      "properties": {
+        "FID": 67,
+        "OBJECTID_1": 68,
+        "Name": "Kojan",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 10523.2766875,
+        "Country": "Iran",
+        "Open_Close": 0,
+        "ORIG_FID": 67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.31966472402189,
+          2.049248938369305
+        ]
+      },
+      "properties": {
+        "FID": 68,
+        "OBJECTID_1": 69,
+        "Name": "Kisenyi",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 781.244852321,
+        "Country": "Somalia",
+        "Open_Close": 0,
+        "ORIG_FID": 68
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.04617588676666,
+          -1.950036581467514
+        ]
+      },
+      "properties": {
+        "FID": 69,
+        "OBJECTID_1": 70,
+        "Name": "Kimisagara",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5839.24660298,
+        "Country": "Rwanda",
+        "Open_Close": 0,
+        "ORIG_FID": 69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.96666787771098,
+          47.91186008708977
+        ]
+      },
+      "properties": {
+        "FID": 70,
+        "OBJECTID_1": 71,
+        "Name": "Khoroo 13",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3438.93897585,
+        "Country": "Mongolia",
+        "Open_Close": 0,
+        "ORIG_FID": 70
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.57389698980282,
+          13.710589604387716
+        ]
+      },
+      "properties": {
+        "FID": 71,
+        "OBJECTID_1": 72,
+        "Name": "Khlong Toei",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3911.41797201,
+        "Country": "Thailand",
+        "Open_Close": 0,
+        "ORIG_FID": 71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.80620181850871,
+          -6.1244528667249
+        ]
+      },
+      "properties": {
+        "FID": 72,
+        "OBJECTID_1": 73,
+        "Name": "Kelurahan",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1970.55867056,
+        "Country": "Indonesia",
+        "Open_Close": 0,
+        "ORIG_FID": 72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.18518637879026,
+          -9.482268014756228
+        ]
+      },
+      "properties": {
+        "FID": 73,
+        "OBJECTID_1": 74,
+        "Name": "Kaugere",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3295.57594761,
+        "Country": "Papua New Guinea",
+        "Open_Close": 0,
+        "ORIG_FID": 73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2956670837441093,
+          6.150720883205821
+        ]
+      },
+      "properties": {
+        "FID": 74,
+        "OBJECTID_1": 75,
+        "Name": "Katanga",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2947.15140724,
+        "Country": "Togo",
+        "Open_Close": 0,
+        "ORIG_FID": 74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41023210113478,
+          23.78505570941371
+        ]
+      },
+      "properties": {
+        "FID": 75,
+        "OBJECTID_1": 76,
+        "Name": "Karail",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3297.61590464,
+        "Country": "Bangladesh",
+        "Open_Close": 0,
+        "ORIG_FID": 75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.67644171538173,
+          13.451879173455318
+        ]
+      },
+      "properties": {
+        "FID": 76,
+        "OBJECTID_1": 77,
+        "Name": "Kanifing",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3745.23921749,
+        "Country": "The Gambia",
+        "Open_Close": 0,
+        "ORIG_FID": 76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.65831625133337,
+          3.1866385034647777
+        ]
+      },
+      "properties": {
+        "FID": 77,
+        "OBJECTID_1": 78,
+        "Name": "Kampung Melayu Segambut",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1491.56853233,
+        "Country": "Malaysia",
+        "Open_Close": 0,
+        "ORIG_FID": 77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.66579023449727,
+          3.1136799544580005
+        ]
+      },
+      "properties": {
+        "FID": 78,
+        "OBJECTID_1": 79,
+        "Name": "Kampung Kerinchi",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 386.404418156,
+        "Country": "Malaysia",
+        "Open_Close": 0,
+        "ORIG_FID": 78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.39875107834888,
+          -3.3500901124708586
+        ]
+      },
+      "properties": {
+        "FID": 79,
+        "OBJECTID_1": 80,
+        "Name": "Kamenge",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4800.80909604,
+        "Country": "Burundi",
+        "Open_Close": 0,
+        "ORIG_FID": 79
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63533635390044,
+          27.505663352206682
+        ]
+      },
+      "properties": {
+        "FID": 80,
+        "OBJECTID_1": 81,
+        "Name": "Jungshina",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1442.30675167,
+        "Country": "Bhutan",
+        "Open_Close": 0,
+        "ORIG_FID": 80
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.22806401073281,
+          35.54298014399824
+        ]
+      },
+      "properties": {
+        "FID": 81,
+        "OBJECTID_1": 82,
+        "Name": "Eslamshahr",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 8707.10473825,
+        "Country": "Iran",
+        "Open_Close": 0,
+        "ORIG_FID": 81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -52.30512607008642,
+          4.919738449936641
+        ]
+      },
+      "properties": {
+        "FID": 82,
+        "OBJECTID_1": 83,
+        "Name": "IS",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4600.29845922,
+        "Country": "French Guiana",
+        "Open_Close": 0,
+        "ORIG_FID": 82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.15300899891258,
+          16.80025599358667
+        ]
+      },
+      "properties": {
+        "FID": 83,
+        "OBJECTID_1": 84,
+        "Name": "Bahan",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1064.9896098,
+        "Country": "Myanmar",
+        "Open_Close": 0,
+        "ORIG_FID": 83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.55794913874732,
+          31.258930109044233
+        ]
+      },
+      "properties": {
+        "FID": 84,
+        "OBJECTID_1": 85,
+        "Name": "Hongkuo",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 436.901617808,
+        "Country": "China",
+        "Open_Close": 0,
+        "ORIG_FID": 84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.81539053417782,
+          21.41400264566184
+        ]
+      },
+      "properties": {
+        "FID": 85,
+        "OBJECTID_1": 86,
+        "Name": "Kaaba",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 8918.22747173,
+        "Country": "Saudi Arabia",
+        "Open_Close": 0,
+        "ORIG_FID": 85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.36371050291143,
+          40.049994459740994
+        ]
+      },
+      "properties": {
+        "FID": 86,
+        "OBJECTID_1": 87,
+        "Name": "Henan",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1189.27238093,
+        "Country": "China",
+        "Open_Close": 0,
+        "ORIG_FID": 86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.06769610456834,
+          36.347146980599575
+        ]
+      },
+      "properties": {
+        "FID": 87,
+        "OBJECTID_1": 88,
+        "Name": "Harmatt",
+        "Yr_Mapped": 2004,
+        "Shape_Area": 7965.0292448,
+        "Country": "Iraq",
+        "Open_Close": 0,
+        "ORIG_FID": 87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.35631389449503,
+          31.51036771831456
+        ]
+      },
+      "properties": {
+        "FID": 88,
+        "OBJECTID_1": 89,
+        "Name": "Gurumangat",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 1688.06864983,
+        "Country": "Pakistan",
+        "Open_Close": 0,
+        "ORIG_FID": 88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.447079448169344,
+          14.747834520728055
+        ]
+      },
+      "properties": {
+        "FID": 89,
+        "OBJECTID_1": 90,
+        "Name": "Grand Medine",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2064.33599752,
+        "Country": "Senegal",
+        "Open_Close": 0,
+        "ORIG_FID": 89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.042492794101776,
+          -1.9232730991175446
+        ]
+      },
+      "properties": {
+        "FID": 90,
+        "OBJECTID_1": 91,
+        "Name": "Gatsata",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3497.50053779,
+        "Country": "Rwanda",
+        "Open_Close": 0,
+        "ORIG_FID": 90
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.288900511124897,
+          -15.387300961509906
+        ]
+      },
+      "properties": {
+        "FID": 91,
+        "OBJECTID_1": 92,
+        "Name": "Garden",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5258.40397436,
+        "Country": "Zambia",
+        "Open_Close": 0,
+        "ORIG_FID": 91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.32199615752273,
+          20.606371431999378
+        ]
+      },
+      "properties": {
+        "FID": 92,
+        "OBJECTID_1": 93,
+        "Name": "El Tapatio",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4736.70317828,
+        "Country": "Mexico",
+        "Open_Close": 0,
+        "ORIG_FID": 92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.039014494432756,
+          27.73009210224383
+        ]
+      },
+      "properties": {
+        "FID": 93,
+        "OBJECTID_1": 94,
+        "Name": "El Aayun Refugee Camp",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 32280.9326604,
+        "Country": "Algeria",
+        "Open_Close": 0,
+        "ORIG_FID": 93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.06560292176776,
+          21.985854638468936
+        ]
+      },
+      "properties": {
+        "FID": 94,
+        "OBJECTID_1": 95,
+        "Name": "East Ze Gyo Daw",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1824.35833779,
+        "Country": "Myanmar",
+        "Open_Close": 0,
+        "ORIG_FID": 94
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.50208693205493,
+          10.657274145196642
+        ]
+      },
+      "properties": {
+        "FID": 95,
+        "OBJECTID_1": 96,
+        "Name": "East Dry River",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 8206.54410455,
+        "Country": "Trinidad and Tobago",
+        "Open_Close": 0,
+        "ORIG_FID": 95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.08464731397968,
+          11.555160231348996
+        ]
+      },
+      "properties": {
+        "FID": 96,
+        "OBJECTID_1": 97,
+        "Name": "Balbala",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2935.38074408,
+        "Country": "Djibouti",
+        "Open_Close": 0,
+        "ORIG_FID": 96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.15929907638722,
+          36.82182137774995
+        ]
+      },
+      "properties": {
+        "FID": 97,
+        "OBJECTID_1": 98,
+        "Name": "Jbal Lahmar",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5245.61942296,
+        "Country": "Tunisia",
+        "Open_Close": 0,
+        "ORIG_FID": 97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.270460687693438,
+          6.785158043208776
+        ]
+      },
+      "properties": {
+        "FID": 98,
+        "OBJECTID_1": 99,
+        "Name": "Dioulakro",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 47189.3088253,
+        "Country": "C\u00f4te d'Ivoire",
+        "Open_Close": 0,
+        "ORIG_FID": 98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.17872269498248,
+          13.692663291043026
+        ]
+      },
+      "properties": {
+        "FID": 99,
+        "OBJECTID_1": 100,
+        "Name": "Comunidad El Granjero",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 972.741293746,
+        "Country": "El Salvador",
+        "Open_Close": 0,
+        "ORIG_FID": 99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.18205544468657,
+          13.670301485513463
+        ]
+      },
+      "properties": {
+        "FID": 100,
+        "OBJECTID_1": 101,
+        "Name": "Colonia Los Andes",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2010.87538188,
+        "Country": "El Salvador",
+        "Open_Close": 0,
+        "ORIG_FID": 100
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.90178239932817,
+          11.593662330660267
+        ]
+      },
+      "properties": {
+        "FID": 101,
+        "OBJECTID_1": 102,
+        "Name": "Clough",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1066.32193201,
+        "Country": "Cambodia",
+        "Open_Close": 0,
+        "ORIG_FID": 101
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.491365291022674,
+          -34.670218670917144
+        ]
+      },
+      "properties": {
+        "FID": 102,
+        "OBJECTID_1": 103,
+        "Name": "Ciudad Oculta",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 3994.97056315,
+        "Country": "Argentina",
+        "Open_Close": 0,
+        "ORIG_FID": 102
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.51728361467759,
+          -11.641080819873574
+        ]
+      },
+      "properties": {
+        "FID": 103,
+        "OBJECTID_1": 104,
+        "Name": "Cite Zaire",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4977.5564258,
+        "Country": "Democratic Republic of Congo",
+        "Open_Close": 0,
+        "ORIG_FID": 103
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.13707514430209,
+          34.5565265537453
+        ]
+      },
+      "properties": {
+        "FID": 104,
+        "OBJECTID_1": 105,
+        "Name": "Chaman EBabrak",
+        "Yr_Mapped": 2009,
+        "Shape_Area": 1347.64461129,
+        "Country": "Afghanistan",
+        "Open_Close": 0,
+        "ORIG_FID": 104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.55631133572332,
+          -25.947846970540304
+        ]
+      },
+      "properties": {
+        "FID": 105,
+        "OBJECTID_1": 106,
+        "Name": "Chamanculo B",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3756.67300687,
+        "Country": "Mozambique",
+        "Open_Close": 0,
+        "ORIG_FID": 105
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.228078834232123,
+          -8.832873124312243
+        ]
+      },
+      "properties": {
+        "FID": 106,
+        "OBJECTID_1": 107,
+        "Name": "Catambor Luanda",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3330.54331152,
+        "Country": "Angola",
+        "Open_Close": 0,
+        "ORIG_FID": 106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.05823353640934,
+          36.78424615356059
+        ]
+      },
+      "properties": {
+        "FID": 107,
+        "OBJECTID_1": 108,
+        "Name": "Casbah",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1783.93245058,
+        "Country": "Algeria",
+        "Open_Close": 0,
+        "ORIG_FID": 107
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.73242918998132,
+          -33.48957786884568
+        ]
+      },
+      "properties": {
+        "FID": 108,
+        "OBJECTID_1": 109,
+        "Name": "Campamento",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1365.34251097,
+        "Country": "Chile",
+        "Open_Close": 0,
+        "ORIG_FID": 108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.35899164387375,
+          -3.3689402496331375
+        ]
+      },
+      "properties": {
+        "FID": 109,
+        "OBJECTID_1": 110,
+        "Name": "Buyenzi",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5494.07321225,
+        "Country": "Burundi",
+        "Open_Close": 0,
+        "ORIG_FID": 109
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.013897599088773,
+          27.51431598177986
+        ]
+      },
+      "properties": {
+        "FID": 110,
+        "OBJECTID_1": 111,
+        "Name": "Boujdour",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 29175.5245913,
+        "Country": "Algeria",
+        "Open_Close": 0,
+        "ORIG_FID": 110
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.768727464038804,
+          8.971428688016113
+        ]
+      },
+      "properties": {
+        "FID": 111,
+        "OBJECTID_1": 112,
+        "Name": "Bole Bulbula",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3514.27281266,
+        "Country": "Ethiopia",
+        "Open_Close": 0,
+        "ORIG_FID": 111
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.50520557478858,
+          8.984205950152823
+        ]
+      },
+      "properties": {
+        "FID": 112,
+        "OBJECTID_1": 113,
+        "Name": "Boca La Caja",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2282.65985577,
+        "Country": "Panama",
+        "Open_Close": 0,
+        "ORIG_FID": 112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77695592385274,
+          22.366257467834448
+        ]
+      },
+      "properties": {
+        "FID": 113,
+        "OBJECTID_1": 114,
+        "Name": "Biniashvili Paharatali",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2723.47226854,
+        "Country": "Bangladesh",
+        "Open_Close": 0,
+        "ORIG_FID": 113
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.58986997079737,
+          -25.250106676287924
+        ]
+      },
+      "properties": {
+        "FID": 114,
+        "OBJECTID_1": 115,
+        "Name": "Banando Norte",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7336.89878633,
+        "Country": "Paraguay",
+        "Open_Close": 0,
+        "ORIG_FID": 114
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.29522944764008,
+          12.162117517031815
+        ]
+      },
+      "properties": {
+        "FID": 115,
+        "OBJECTID_1": 116,
+        "Name": "Bajos de Acahualinca",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4032.67144634,
+        "Country": "Nicaragua",
+        "Open_Close": 0,
+        "ORIG_FID": 115
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.12503281439132,
+          -31.41220259737347
+        ]
+      },
+      "properties": {
+        "FID": 116,
+        "OBJECTID_1": 117,
+        "Name": "Bajada San Jose",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2743.01513423,
+        "Country": "Argentina",
+        "Open_Close": 0,
+        "ORIG_FID": 116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.36704942378371,
+          23.11819008126735
+        ]
+      },
+      "properties": {
+        "FID": 117,
+        "OBJECTID_1": 118,
+        "Name": "Atares",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2683.19760464,
+        "Country": "Cuba",
+        "Open_Close": 0,
+        "ORIG_FID": 117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.03451790471998,
+          -34.77763102706148
+        ]
+      },
+      "properties": {
+        "FID": 118,
+        "OBJECTID_1": 119,
+        "Name": "Asentamiento",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4133.02663075,
+        "Country": "Uruguay",
+        "Open_Close": 0,
+        "ORIG_FID": 118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.13816893860752,
+          11.580699815652773
+        ]
+      },
+      "properties": {
+        "FID": 119,
+        "OBJECTID_1": 120,
+        "Name": "Arhiba",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 1411.29929038,
+        "Country": "Djibouti",
+        "Open_Close": 0,
+        "ORIG_FID": 119
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.614257080420018,
+          4.847731364128501
+        ]
+      },
+      "properties": {
+        "FID": 120,
+        "OBJECTID_1": 121,
+        "Name": "Arbitraria Seymour",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2155.45241787,
+        "Country": "South Sudan",
+        "Open_Close": 0,
+        "ORIG_FID": 120
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.51222775373661,
+          -18.928799493737415
+        ]
+      },
+      "properties": {
+        "FID": 121,
+        "OBJECTID_1": 122,
+        "Name": "Anosibe",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2753.03679807,
+        "Country": "Madagascar",
+        "Open_Close": 0,
+        "ORIG_FID": 121
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.319497791345455,
+          33.475739361598535
+        ]
+      },
+      "properties": {
+        "FID": 122,
+        "OBJECTID_1": 123,
+        "Name": "Al Salikha",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 2374.77171388,
+        "Country": "Syria",
+        "Open_Close": 0,
+        "ORIG_FID": 122
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.963872736668215,
+          31.950669706494317
+        ]
+      },
+      "properties": {
+        "FID": 123,
+        "OBJECTID_1": 124,
+        "Name": "Adan",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 3771.78973755,
+        "Country": "Jordan",
+        "Open_Close": 0,
+        "ORIG_FID": 123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.88850397614199,
+          17.224183461284063
+        ]
+      },
+      "properties": {
+        "FID": 124,
+        "OBJECTID_1": 125,
+        "Name": "Ontario Village",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 8507.20946979,
+        "Country": "Belize",
+        "Open_Close": 0,
+        "ORIG_FID": 124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.05330250436523,
+          18.429785003409837
+        ]
+      },
+      "properties": {
+        "FID": 125,
+        "OBJECTID_1": 126,
+        "Name": "Mart\u00edn Pe\u00f1a",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4408.47779112,
+        "Country": "Puerto Rico",
+        "Open_Close": 0,
+        "ORIG_FID": 125
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40698918295911,
+          23.76453655184249
+        ]
+      },
+      "properties": {
+        "FID": 126,
+        "OBJECTID_1": 127,
+        "Name": "Kunipara",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5415.98587839,
+        "Country": "Bangladesh",
+        "Open_Close": 0,
+        "ORIG_FID": 126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.513620142426994,
+          -18.90316097525517
+        ]
+      },
+      "properties": {
+        "FID": 127,
+        "OBJECTID_1": 128,
+        "Name": "Antohomandinika",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1931.36229544,
+        "Country": "Madagascar",
+        "Open_Close": 0,
+        "ORIG_FID": 127
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.528013246397524,
+          4.360160532388932
+        ]
+      },
+      "properties": {
+        "FID": 128,
+        "OBJECTID_1": 129,
+        "Name": "Fatima",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 13875.6557065,
+        "Country": "Central African Republic",
+        "Open_Close": 0,
+        "ORIG_FID": 128
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.14194952266677,
+          38.409028093973944
+        ]
+      },
+      "properties": {
+        "FID": 129,
+        "OBJECTID_1": 130,
+        "Name": "Kadifekale",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 11151.6847187,
+        "Country": "Turkey",
+        "Open_Close": 0,
+        "ORIG_FID": 129
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.78701159647646,
+          -24.65694083987501
+        ]
+      },
+      "properties": {
+        "FID": 130,
+        "OBJECTID_1": 131,
+        "Name": "Kimbera",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 18195.0356243,
+        "Country": "Botswana",
+        "Open_Close": 0,
+        "ORIG_FID": 130
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.763999844481415,
+          3.742815874285102
+        ]
+      },
+      "properties": {
+        "FID": 131,
+        "OBJECTID_1": 132,
+        "Name": "Sampaka",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 5194.78984547,
+        "Country": "Equitorial Guinea",
+        "Open_Close": 0,
+        "ORIG_FID": 131
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.179940103086494,
+          36.27481732613443
+        ]
+      },
+      "properties": {
+        "FID": 132,
+        "OBJECTID_1": 133,
+        "Name": "Einel Tal",
+        "Yr_Mapped": 2018,
+        "Shape_Area": 11990.5295663,
+        "Country": "Syria",
+        "Open_Close": 0,
+        "ORIG_FID": 132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.86345586043664,
+          21.055117703969017
+        ]
+      },
+      "properties": {
+        "FID": 133,
+        "OBJECTID_1": 134,
+        "Name": "Long Bien Bridge",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 4347.55798268,
+        "Country": "Vietnam",
+        "Open_Close": 0,
+        "ORIG_FID": 133
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0815268517265593,
+          36.70110381097141
+        ]
+      },
+      "properties": {
+        "FID": 134,
+        "OBJECTID_1": 135,
+        "Name": "El Wiam",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 845.971382897,
+        "Country": "Algeria",
+        "Open_Close": 0,
+        "ORIG_FID": 134
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.99280846443487,
+          -15.779520343161453
+        ]
+      },
+      "properties": {
+        "FID": 135,
+        "OBJECTID_1": 136,
+        "Name": "StLeste",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 11617.889394,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 135
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.66636041658637,
+          3.5593219641436207
+        ]
+      },
+      "properties": {
+        "FID": 136,
+        "OBJECTID_1": 137,
+        "Name": "Polonia",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 6434.21172305,
+        "Country": "Indonesia",
+        "Open_Close": 0,
+        "ORIG_FID": 136
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.760849238997075,
+          9.005136616258236
+        ]
+      },
+      "properties": {
+        "FID": 137,
+        "OBJECTID_1": 138,
+        "Name": "Kirkos",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 1536.19268151,
+        "Country": "Ethiopia",
+        "Open_Close": 0,
+        "ORIG_FID": 137
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0988397030036,
+          -17.687977893605435
+        ]
+      },
+      "properties": {
+        "FID": 138,
+        "OBJECTID_1": 139,
+        "Name": "Hatcliffe",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7265.15737064,
+        "Country": "Zimbabwe",
+        "Open_Close": 0,
+        "ORIG_FID": 138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.037684656990536,
+          13.80535634709873
+        ]
+      },
+      "properties": {
+        "FID": 139,
+        "OBJECTID_1": 140,
+        "Name": "Birnin Lokoyo",
+        "Yr_Mapped": 2019,
+        "Shape_Area": 7013.10625414,
+        "Country": "Niger",
+        "Open_Close": 0,
+        "ORIG_FID": 139
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5088642501241951,
+          12.438099518140822
+        ]
+      },
+      "properties": {
+        "FID": 140,
+        "OBJECTID_1": 141,
+        "Name": "Polesgo",
+        "Yr_Mapped": 2020,
+        "Shape_Area": 4643.30315645,
+        "Country": "Burkina Faso",
+        "Open_Close": 0,
+        "ORIG_FID": 140
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.16531883847826,
+          28.659933654215685
+        ]
+      },
+      "properties": {
+        "FID": 141,
+        "OBJECTID_1": 142,
+        "Name": "Kirti Nagar",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 8358.96753909,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 141
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.93428030350125,
+          10.502688595147212
+        ]
+      },
+      "properties": {
+        "FID": 142,
+        "OBJECTID_1": 143,
+        "Name": "23 de Enero",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5530.54884348,
+        "Country": "Venezuela",
+        "Open_Close": 0,
+        "ORIG_FID": 142
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8546858221007,
+          26.831070121886608
+        ]
+      },
+      "properties": {
+        "FID": 143,
+        "OBJECTID_1": 144,
+        "Name": "Arvind Nagar",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6602.39262732,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3155469663925357,
+          6.624022917497696
+        ]
+      },
+      "properties": {
+        "FID": 144,
+        "OBJECTID_1": 145,
+        "Name": "Agege",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 18416.3182129,
+        "Country": "NIgeria",
+        "Open_Close": 0,
+        "ORIG_FID": 144
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.92732734320215,
+          10.48421896767428
+        ]
+      },
+      "properties": {
+        "FID": 145,
+        "OBJECTID_1": 146,
+        "Name": "Ajuro Libertador",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4828.75061229,
+        "Country": "Venezuela",
+        "Open_Close": 0,
+        "ORIG_FID": 145
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.75422375024954,
+          -13.91827398570802
+        ]
+      },
+      "properties": {
+        "FID": 146,
+        "OBJECTID_1": 147,
+        "Name": "A49Proper",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 16623.1892514,
+        "Country": "Malawi",
+        "Open_Close": 0,
+        "ORIG_FID": 146
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22700427229700304,
+          5.553553009818552
+        ]
+      },
+      "properties": {
+        "FID": 147,
+        "OBJECTID_1": 148,
+        "Name": "Adbogbloshie",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3273.94769069,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18548127691402,
+          4.565707622827558
+        ]
+      },
+      "properties": {
+        "FID": 148,
+        "OBJECTID_1": 149,
+        "Name": "Mariscal Sucre",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 8331.93562105,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 148
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.026194873684925245,
+          5.69309622102862
+        ]
+      },
+      "properties": {
+        "FID": 149,
+        "OBJECTID_1": 150,
+        "Name": "Amui Djor",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3745.18834447,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 149
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.02879100485603066,
+          5.686177514369481
+        ]
+      },
+      "properties": {
+        "FID": 150,
+        "OBJECTID_1": 151,
+        "Name": "Ashaiman",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2877.19426986,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 150
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.366508392460636,
+          6.466227042464994
+        ]
+      },
+      "properties": {
+        "FID": 151,
+        "OBJECTID_1": 152,
+        "Name": "Badia",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2811.59935756,
+        "Country": "Nigeria",
+        "Open_Close": 0,
+        "ORIG_FID": 151
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.783241923278117,
+          6.4226841156483365
+        ]
+      },
+      "properties": {
+        "FID": 152,
+        "OBJECTID_1": 153,
+        "Name": "Brewerville",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 10178.1110375,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.04845700316714,
+          -11.992615356744603
+        ]
+      },
+      "properties": {
+        "FID": 153,
+        "OBJECTID_1": 154,
+        "Name": "Independencias",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7176.90721478,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 153
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.93243225517888,
+          18.88349390017919
+        ]
+      },
+      "properties": {
+        "FID": 154,
+        "OBJECTID_1": 155,
+        "Name": "Colonia Juarez",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1552.14635204,
+        "Country": "Mexico",
+        "Open_Close": 0,
+        "ORIG_FID": 154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.288822913744287,
+          -8.82967752847638
+        ]
+      },
+      "properties": {
+        "FID": 155,
+        "OBJECTID_1": 156,
+        "Name": "Cazenga",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7559.16009569,
+        "Country": "Angola",
+        "Open_Close": 0,
+        "ORIG_FID": 155
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.79094048526302,
+          6.331605078437362
+        ]
+      },
+      "properties": {
+        "FID": 156,
+        "OBJECTID_1": 157,
+        "Name": "Clara town",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7412.14472527,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 156
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.27326657418625,
+          -22.86265904098226
+        ]
+      },
+      "properties": {
+        "FID": 157,
+        "OBJECTID_1": 158,
+        "Name": "Complexo de Alemao",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 11809.1530416,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 157
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.85522905473131,
+          19.043720734856105
+        ]
+      },
+      "properties": {
+        "FID": 158,
+        "OBJECTID_1": 159,
+        "Name": "Dharavi",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7055.53680547,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 158
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.98060669630275,
+          18.065767906444027
+        ]
+      },
+      "properties": {
+        "FID": 159,
+        "OBJECTID_1": 160,
+        "Name": "El Mina",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 9479.41865994,
+        "Country": "Mauritania",
+        "Open_Close": 0,
+        "ORIG_FID": 159
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.58494869173813,
+          6.30694436536784
+        ]
+      },
+      "properties": {
+        "FID": 160,
+        "OBJECTID_1": 161,
+        "Name": "El Triunfo",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 960.368481477,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 160
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.16844023597427,
+          4.627393519506091
+        ]
+      },
+      "properties": {
+        "FID": 161,
+        "OBJECTID_1": 162,
+        "Name": "El Amparo",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1359.24443123,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 161
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.384944137842822,
+          30.06415469676531
+        ]
+      },
+      "properties": {
+        "FID": 162,
+        "OBJECTID_1": 163,
+        "Name": "Ezbet el-Hagana",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 14035.7339713,
+        "Country": "Egypt",
+        "Open_Close": 0,
+        "ORIG_FID": 162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.027242816983243,
+          -22.505028923799493
+        ]
+      },
+      "properties": {
+        "FID": 163,
+        "OBJECTID_1": 164,
+        "Name": "Big Bend",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6071.3804677,
+        "Country": "Namibia",
+        "Open_Close": 0,
+        "ORIG_FID": 163
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.024161595558716,
+          -22.518456133520473
+        ]
+      },
+      "properties": {
+        "FID": 164,
+        "OBJECTID_1": 165,
+        "Name": "Goreangab",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5121.9316198,
+        "Country": "Namibia",
+        "Open_Close": 0,
+        "ORIG_FID": 164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.391185113315399,
+          6.505205403623342
+        ]
+      },
+      "properties": {
+        "FID": 165,
+        "OBJECTID_1": 166,
+        "Name": "Iwaya",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4350.12281823,
+        "Country": "NIgeria",
+        "Open_Close": 0,
+        "ORIG_FID": 165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83466661787782,
+          19.101919777408515
+        ]
+      },
+      "properties": {
+        "FID": 166,
+        "OBJECTID_1": 167,
+        "Name": "Juhu",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1984.09422369,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 166
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.22241388119515232,
+          5.547946983980829
+        ]
+      },
+      "properties": {
+        "FID": 167,
+        "OBJECTID_1": 168,
+        "Name": "jamestown",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2946.02098724,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 167
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.50193135550566,
+          34.642419966307884
+        ]
+      },
+      "properties": {
+        "FID": 168,
+        "OBJECTID_1": 169,
+        "Name": "Kamagasaki",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7579.42517112,
+        "Country": "Japan",
+        "Open_Close": 0,
+        "ORIG_FID": 168
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9178745852503,
+          -1.272421877512724
+        ]
+      },
+      "properties": {
+        "FID": 169,
+        "OBJECTID_1": 170,
+        "Name": "Kayole",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 12300.9286998,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.61681287010877,
+          0.30508439512040497
+        ]
+      },
+      "properties": {
+        "FID": 170,
+        "OBJECTID_1": 171,
+        "Name": "Kasanvu",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5709.98653741,
+        "Country": "Uganda",
+        "Open_Close": 0,
+        "ORIG_FID": 170
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.77145498331896,
+          -6.106821041800607
+        ]
+      },
+      "properties": {
+        "FID": 171,
+        "OBJECTID_1": 172,
+        "Name": "Kelurahan",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 8261.30399954,
+        "Country": "Indonesia",
+        "Open_Close": 0,
+        "ORIG_FID": 171
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.07510147350445,
+          -25.5977074372264
+        ]
+      },
+      "properties": {
+        "FID": 172,
+        "OBJECTID_1": 173,
+        "Name": "Klipfontein",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5653.4413518,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 172
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7250258569418757,
+          4.96658139580736
+        ]
+      },
+      "properties": {
+        "FID": 173,
+        "OBJECTID_1": 174,
+        "Name": "Kojokrom",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2654.81016625,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 173
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.89158988003697,
+          -1.2485324732552856
+        ]
+      },
+      "properties": {
+        "FID": 174,
+        "OBJECTID_1": 175,
+        "Name": "Korogocho",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4469.67094781,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.678948180435285,
+          -34.03469002042157
+        ]
+      },
+      "properties": {
+        "FID": 175,
+        "OBJECTID_1": 176,
+        "Name": "Khayelitsha",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1484.0941823,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.15047475734619,
+          9.962001519179793
+        ]
+      },
+      "properties": {
+        "FID": 176,
+        "OBJECTID_1": 177,
+        "Name": "La Carpio",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3474.47714969,
+        "Country": "Costa Rica",
+        "Open_Close": 0,
+        "ORIG_FID": 176
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.23700048551258,
+          9.993188208547481
+        ]
+      },
+      "properties": {
+        "FID": 177,
+        "OBJECTID_1": 178,
+        "Name": "la canada",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1948.84535929,
+        "Country": "Costa Rica",
+        "Open_Close": 0,
+        "ORIG_FID": 177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.62625322850195,
+          6.2510561050297735
+        ]
+      },
+      "properties": {
+        "FID": 178,
+        "OBJECTID_1": 179,
+        "Name": "Independencias",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6227.19774498,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.38232778183624,
+          -34.582652991051994
+        ]
+      },
+      "properties": {
+        "FID": 179,
+        "OBJECTID_1": 180,
+        "Name": "La Matera",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6922.22792899,
+        "Country": "Argentina",
+        "Open_Close": 0,
+        "ORIG_FID": 179
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.11592406282121,
+          18.468745103896772
+        ]
+      },
+      "properties": {
+        "FID": 180,
+        "OBJECTID_1": 181,
+        "Name": "La Perla",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1854.66814168,
+        "Country": "Puero Rico",
+        "Open_Close": 0,
+        "ORIG_FID": 180
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1458116739673,
+          4.5447803089885515
+        ]
+      },
+      "properties": {
+        "FID": 181,
+        "OBJECTID_1": 182,
+        "Name": "La Estrella",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5250.14433677,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 181
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.01012770951324,
+          19.335824615953236
+        ]
+      },
+      "properties": {
+        "FID": 182,
+        "OBJECTID_1": 183,
+        "Name": "Lomas de La Estancia",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5854.00523657,
+        "Country": "Mexico",
+        "Open_Close": 0,
+        "ORIG_FID": 182
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.784517530981567,
+          6.348407974680459
+        ]
+      },
+      "properties": {
+        "FID": 183,
+        "OBJECTID_1": 184,
+        "Name": "Logan Town",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4191.81130413,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 183
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9966593168305,
+          24.869295170848293
+        ]
+      },
+      "properties": {
+        "FID": 184,
+        "OBJECTID_1": 185,
+        "Name": "lyaritown",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 12140.4183331,
+        "Country": "Pakistan",
+        "Open_Close": 0,
+        "ORIG_FID": 184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3914725742063174,
+          6.495753405744738
+        ]
+      },
+      "properties": {
+        "FID": 185,
+        "OBJECTID_1": 186,
+        "Name": "Mokoko",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4156.19083499,
+        "Country": "Nigeria",
+        "Open_Close": 0,
+        "ORIG_FID": 185
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.97921403401291,
+          24.862171742605135
+        ]
+      },
+      "properties": {
+        "FID": 186,
+        "OBJECTID_1": 187,
+        "Name": "Machar Colony",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6145.75736732,
+        "Country": "Pakistan",
+        "Open_Close": 0,
+        "ORIG_FID": 186
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.87139481720706,
+          6.937259545914886
+        ]
+      },
+      "properties": {
+        "FID": 187,
+        "OBJECTID_1": 188,
+        "Name": "Maligawatte",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2619.46535842,
+        "Country": "Sri Lanka",
+        "Open_Close": 0,
+        "ORIG_FID": 187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.04484941476393,
+          14.776126916776958
+        ]
+      },
+      "properties": {
+        "FID": 188,
+        "OBJECTID_1": 189,
+        "Name": "bagong",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 13658.3154069,
+        "Country": "Philippines",
+        "Open_Close": 0,
+        "ORIG_FID": 188
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.84360187755931,
+          -1.2895305068746643
+        ]
+      },
+      "properties": {
+        "FID": 189,
+        "OBJECTID_1": 190,
+        "Name": "Mariguini",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1845.89879024,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 189
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.278646490272962,
+          30.038572943880254
+        ]
+      },
+      "properties": {
+        "FID": 190,
+        "OBJECTID_1": 191,
+        "Name": "Manshiya Nasir",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7999.69682541,
+        "Country": "Egypt",
+        "Open_Close": 0,
+        "ORIG_FID": 190
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31129507214767,
+          28.53358706213452
+        ]
+      },
+      "properties": {
+        "FID": 191,
+        "OBJECTID_1": 192,
+        "Name": "Madanpur Khadar",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6206.12255963,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 191
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.052018352519262,
+          -22.494331035570372
+        ]
+      },
+      "properties": {
+        "FID": 192,
+        "OBJECTID_1": 193,
+        "Name": "Maxulili",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 11097.2240319,
+        "Country": "Namibia",
+        "Open_Close": 0,
+        "ORIG_FID": 192
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.892069734365094,
+          -26.2179812565788
+        ]
+      },
+      "properties": {
+        "FID": 193,
+        "OBJECTID_1": 194,
+        "Name": "Meadowlands",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 13557.7703688,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 193
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.02436600676654,
+          19.418516841346428
+        ]
+      },
+      "properties": {
+        "FID": 194,
+        "OBJECTID_1": 195,
+        "Name": "neza chalco itza",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 46925.6718093,
+        "Country": "Mexico",
+        "Open_Close": 0,
+        "ORIG_FID": 194
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.02765604201394,
+          -22.553105250928994
+        ]
+      },
+      "properties": {
+        "FID": 195,
+        "OBJECTID_1": 196,
+        "Name": "Otjomuise",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 11486.1956694,
+        "Country": "Namibia",
+        "Open_Close": 0,
+        "ORIG_FID": 195
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.056851288747822,
+          -22.503891949373795
+        ]
+      },
+      "properties": {
+        "FID": 196,
+        "OBJECTID_1": 197,
+        "Name": "Okandundu",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4214.34498575,
+        "Country": "Namibia",
+        "Open_Close": 0,
+        "ORIG_FID": 196
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.72624679589624,
+          -23.615050465684924
+        ]
+      },
+      "properties": {
+        "FID": 197,
+        "OBJECTID_1": 198,
+        "Name": "Paraisopolis",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 8153.22189561,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.84973737094984,
+          -1.2876445218483703
+        ]
+      },
+      "properties": {
+        "FID": 198,
+        "OBJECTID_1": 199,
+        "Name": "Pumwani",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2500.26559846,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 198
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.10132649667652,
+          14.71290045673548
+        ]
+      },
+      "properties": {
+        "FID": 199,
+        "OBJECTID_1": 200,
+        "Name": "Payatas",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 8440.7650573,
+        "Country": "Philippines",
+        "Open_Close": 0,
+        "ORIG_FID": 199
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24805984731386,
+          -22.988616054582117
+        ]
+      },
+      "properties": {
+        "FID": 200,
+        "OBJECTID_1": 201,
+        "Name": "Rocinha",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7124.40699601,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 200
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26727387599827,
+          12.155223926941236
+        ]
+      },
+      "properties": {
+        "FID": 201,
+        "OBJECTID_1": 202,
+        "Name": "Ruben Dario La Estacion",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2135.40820559,
+        "Country": "Nicaragua",
+        "Open_Close": 0,
+        "ORIG_FID": 201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.463121100613925,
+          33.39026931514397
+        ]
+      },
+      "properties": {
+        "FID": 202,
+        "OBJECTID_1": 203,
+        "Name": "Sadr City",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 24901.0119711,
+        "Country": "Iraq",
+        "Open_Close": 0,
+        "ORIG_FID": 202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.05486066785603,
+          14.599849937448692
+        ]
+      },
+      "properties": {
+        "FID": 203,
+        "OBJECTID_1": 204,
+        "Name": "Sainte Therese",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2498.52625965,
+        "Country": "Martinique",
+        "Open_Close": 0,
+        "ORIG_FID": 203
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.85880511939415,
+          -26.607282639520353
+        ]
+      },
+      "properties": {
+        "FID": 204,
+        "OBJECTID_1": 205,
+        "Name": "Sebonkeng",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 11524.6142689,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 204
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.81346296076677,
+          20.303529146185856
+        ]
+      },
+      "properties": {
+        "FID": 205,
+        "OBJECTID_1": 206,
+        "Name": "Salia Sahi",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7055.16363659,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.83603282694172,
+          -26.243863768703367
+        ]
+      },
+      "properties": {
+        "FID": 206,
+        "OBJECTID_1": 207,
+        "Name": "Soweto",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 81679.0045299,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 206
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10809141518712,
+          4.676226244578385
+        ]
+      },
+      "properties": {
+        "FID": 207,
+        "OBJECTID_1": 208,
+        "Name": "Santa Cecilia",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2943.47324784,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 207
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.91951756697733,
+          23.182715559209953
+        ]
+      },
+      "properties": {
+        "FID": 208,
+        "OBJECTID_1": 209,
+        "Name": "Sarvodaya Nagar",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3167.03662361,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 208
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.010188218608803,
+          18.07648564835929
+        ]
+      },
+      "properties": {
+        "FID": 209,
+        "OBJECTID_1": 210,
+        "Name": "Sebkha",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7178.59253325,
+        "Country": "Mauritania",
+        "Open_Close": 0,
+        "ORIG_FID": 209
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.00807238703207,
+          14.572378073535504
+        ]
+      },
+      "properties": {
+        "FID": 210,
+        "OBJECTID_1": 211,
+        "Name": "San Andres",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2966.35231167,
+        "Country": "Philippines",
+        "Open_Close": 0,
+        "ORIG_FID": 210
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8476678866128,
+          11.62068543505211
+        ]
+      },
+      "properties": {
+        "FID": 211,
+        "OBJECTID_1": 212,
+        "Name": "SenSokTy",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5235.38236859,
+        "Country": "Cambodia",
+        "Open_Close": 0,
+        "ORIG_FID": 211
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.382417556142393,
+          6.536800025233293
+        ]
+      },
+      "properties": {
+        "FID": 212,
+        "OBJECTID_1": 213,
+        "Name": "Somolu Trace",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 14598.0945139,
+        "Country": "Nigeria",
+        "Open_Close": 0,
+        "ORIG_FID": 212
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.776163198839255,
+          6.291800927313143
+        ]
+      },
+      "properties": {
+        "FID": 213,
+        "OBJECTID_1": 214,
+        "Name": "sinkor",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 12480.7104322,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 213
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.804145719939578,
+          6.3112033776645085
+        ]
+      },
+      "properties": {
+        "FID": 214,
+        "OBJECTID_1": 215,
+        "Name": "Sonewein",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3760.86833849,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 214
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.789926712278856,
+          -27.965794954315953
+        ]
+      },
+      "properties": {
+        "FID": 215,
+        "OBJECTID_1": 216,
+        "Name": "Thabong",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 9313.4024956,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 215
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.1496339227958,
+          -37.08517684191074
+        ]
+      },
+      "properties": {
+        "FID": 216,
+        "OBJECTID_1": 217,
+        "Name": "Tiro al Blanco",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6484.7906503,
+        "Country": "Chile",
+        "Open_Close": 0,
+        "ORIG_FID": 216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.96490833763012,
+          14.613097800392605
+        ]
+      },
+      "properties": {
+        "FID": 217,
+        "OBJECTID_1": 218,
+        "Name": "Tondo",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 9734.93893175,
+        "Country": "Philippines",
+        "Open_Close": 0,
+        "ORIG_FID": 217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.06868574007863,
+          14.61727019030901
+        ]
+      },
+      "properties": {
+        "FID": 218,
+        "OBJECTID_1": 219,
+        "Name": "Tr\u00e9nelle",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3832.54825564,
+        "Country": "Martinique",
+        "Open_Close": 0,
+        "ORIG_FID": 218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15.901689698592849,
+          18.06901318818347
+        ]
+      },
+      "properties": {
+        "FID": 219,
+        "OBJECTID_1": 220,
+        "Name": "Toujounine",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 12743.5561843,
+        "Country": "Mauritania",
+        "Open_Close": 0,
+        "ORIG_FID": 219
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.2394989026562,
+          -22.99511590830492
+        ]
+      },
+      "properties": {
+        "FID": 220,
+        "OBJECTID_1": 221,
+        "Name": "Vidigal",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4922.62811003,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 220
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65438157316668,
+          -23.647797049292425
+        ]
+      },
+      "properties": {
+        "FID": 221,
+        "OBJECTID_1": 222,
+        "Name": "Vietna-Civitello",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3035.68047712,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.23354671136144,
+          14.114586107709794
+        ]
+      },
+      "properties": {
+        "FID": 222,
+        "OBJECTID_1": 223,
+        "Name": "Villa Cristina",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3835.78792859,
+        "Country": "Honduras",
+        "Open_Close": 0,
+        "ORIG_FID": 222
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.65943908821626,
+          -23.64122205420299
+        ]
+      },
+      "properties": {
+        "FID": 223,
+        "OBJECTID_1": 224,
+        "Name": "Vietn\u00e3",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 774.048772577,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.88177035873863,
+          6.9232590399630975
+        ]
+      },
+      "properties": {
+        "FID": 224,
+        "OBJECTID_1": 225,
+        "Name": "Wanathamulla",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4141.11144152,
+        "Country": "Sri Lanka",
+        "Open_Close": 0,
+        "ORIG_FID": 224
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.88345064733026,
+          -29.9650644946912
+        ]
+      },
+      "properties": {
+        "FID": 225,
+        "OBJECTID_1": 226,
+        "Name": "Umlazi",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 76785.5516493,
+        "Country": "South Africa",
+        "Open_Close": 0,
+        "ORIG_FID": 225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.13379695515849,
+          -11.895087437699575
+        ]
+      },
+      "properties": {
+        "FID": 226,
+        "OBJECTID_1": 227,
+        "Name": "Costa Azul",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3658.82128446,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.128119876162323,
+          44.47221670149606
+        ]
+      },
+      "properties": {
+        "FID": 227,
+        "OBJECTID_1": 228,
+        "Name": "Tei Toboc",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2874.88138934,
+        "Country": "Romania",
+        "Open_Close": 0,
+        "ORIG_FID": 227
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.71701128772118,
+          -1.2814836277154762
+        ]
+      },
+      "properties": {
+        "FID": 228,
+        "OBJECTID_1": 229,
+        "Name": "Waithaka",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 10292.3536749,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.83706511968641,
+          19.184229442216658
+        ]
+      },
+      "properties": {
+        "FID": 229,
+        "OBJECTID_1": 230,
+        "Name": "Ekta Nagar",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1517.06948801,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 229
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.881295186880955,
+          -1.3160329381994005
+        ]
+      },
+      "properties": {
+        "FID": 230,
+        "OBJECTID_1": 231,
+        "Name": "Mukuru",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 15081.9230243,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 230
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.33532010089431,
+          18.577994040397265
+        ]
+      },
+      "properties": {
+        "FID": 231,
+        "OBJECTID_1": 232,
+        "Name": "Cite Soleil",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5921.05249718,
+        "Country": "Haiti",
+        "Open_Close": 0,
+        "ORIG_FID": 231
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6261932093830458,
+          6.725745616360349
+        ]
+      },
+      "properties": {
+        "FID": 232,
+        "OBJECTID_1": 233,
+        "Name": "Suame Magazine",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5262.53034396,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 232
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.69690699166259,
+          -1.2862075799392472
+        ]
+      },
+      "properties": {
+        "FID": 233,
+        "OBJECTID_1": 234,
+        "Name": "Mutuini",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 12203.4805854,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 233
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.79585890137128,
+          10.473247964214437
+        ]
+      },
+      "properties": {
+        "FID": 234,
+        "OBJECTID_1": 235,
+        "Name": "Petare",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 20143.8077075,
+        "Country": "Venezuela",
+        "Open_Close": 0,
+        "ORIG_FID": 234
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.807496435949345,
+          6.308006889531979
+        ]
+      },
+      "properties": {
+        "FID": 235,
+        "OBJECTID_1": 236,
+        "Name": "South Beach Bay",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2163.21378667,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.20950415531945,
+          -22.794518764823746
+        ]
+      },
+      "properties": {
+        "FID": 236,
+        "OBJECTID_1": 237,
+        "Name": "Parque Royal",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1298.61241681,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9235240531445,
+          -2.2384362859971176
+        ]
+      },
+      "properties": {
+        "FID": 237,
+        "OBJECTID_1": 238,
+        "Name": "Isla Trinitaria",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 10859.5086791,
+        "Country": "Ecuador",
+        "Open_Close": 0,
+        "ORIG_FID": 237
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.50088109645527,
+          14.628283180504466
+        ]
+      },
+      "properties": {
+        "FID": 238,
+        "OBJECTID_1": 239,
+        "Name": "La Limonada",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7171.59602466,
+        "Country": "Guatemala",
+        "Open_Close": 0,
+        "ORIG_FID": 238
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.9914670544883,
+          24.955322524162487
+        ]
+      },
+      "properties": {
+        "FID": 239,
+        "OBJECTID_1": 240,
+        "Name": "Orangi Town",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 47714.2707695,
+        "Country": "Pakistan",
+        "Open_Close": 0,
+        "ORIG_FID": 239
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35535385501706,
+          22.56998690580367
+        ]
+      },
+      "properties": {
+        "FID": 240,
+        "OBJECTID_1": 241,
+        "Name": "Piilkhana",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1600.90017431,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 240
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92434543269147,
+          19.064048149520268
+        ]
+      },
+      "properties": {
+        "FID": 241,
+        "OBJECTID_1": 242,
+        "Name": "Baigandawi",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5926.43944831,
+        "Country": "India",
+        "Open_Close": 0,
+        "ORIG_FID": 241
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.48984614572735,
+          -23.49741964551964
+        ]
+      },
+      "properties": {
+        "FID": 242,
+        "OBJECTID_1": 243,
+        "Name": "Buraco Quente",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2115.25296037,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 242
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.24142129736422,
+          -22.86366888316172
+        ]
+      },
+      "properties": {
+        "FID": 243,
+        "OBJECTID_1": 244,
+        "Name": "Complexo de Mare",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 9470.92020665,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 243
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1894087342251,
+          16.78873199785115
+        ]
+      },
+      "properties": {
+        "FID": 244,
+        "OBJECTID_1": 245,
+        "Name": "Dawbon",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 13013.1624938,
+        "Country": "Thailand",
+        "Open_Close": 0,
+        "ORIG_FID": 244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0427796505715,
+          -12.001332009188067
+        ]
+      },
+      "properties": {
+        "FID": 245,
+        "OBJECTID_1": 246,
+        "Name": "El Ermitano",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4772.72220145,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.87062320130562,
+          -1.2764992200107181
+        ]
+      },
+      "properties": {
+        "FID": 246,
+        "OBJECTID_1": 247,
+        "Name": "BuruBuru",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 5574.78966996,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 246
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9855159638473,
+          18.45567417447373
+        ]
+      },
+      "properties": {
+        "FID": 247,
+        "OBJECTID_1": 248,
+        "Name": "Herrera",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 2993.03516449,
+        "Country": "Domincan Republic",
+        "Open_Close": 0,
+        "ORIG_FID": 247
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18455601217138,
+          4.581637762082967
+        ]
+      },
+      "properties": {
+        "FID": 248,
+        "OBJECTID_1": 249,
+        "Name": "Altos de Cazuca",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 1799.20149637,
+        "Country": "Colombia",
+        "Open_Close": 0,
+        "ORIG_FID": 248
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.90491437686337,
+          10.492866529778714
+        ]
+      },
+      "properties": {
+        "FID": 249,
+        "OBJECTID_1": 250,
+        "Name": "San Agustin",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4664.4151314,
+        "Country": "Venezuela",
+        "Open_Close": 0,
+        "ORIG_FID": 249
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.01980972875657,
+          -11.91472415715174
+        ]
+      },
+      "properties": {
+        "FID": 250,
+        "OBJECTID_1": 251,
+        "Name": "Collique",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 26963.8148733,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 250
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1049661050527,
+          9.901884641836395
+        ]
+      },
+      "properties": {
+        "FID": 251,
+        "OBJECTID_1": 252,
+        "Name": "Alajuelita",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 26466.9548601,
+        "Country": "Costa Rica",
+        "Open_Close": 0,
+        "ORIG_FID": 251
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.92013266483067,
+          -12.2118777815764
+        ]
+      },
+      "properties": {
+        "FID": 252,
+        "OBJECTID_1": 253,
+        "Name": "Cono Sur",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3844.92754653,
+        "Country": "Peru",
+        "Open_Close": 0,
+        "ORIG_FID": 252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.19575993147242,
+          -22.980743039304016
+        ]
+      },
+      "properties": {
+        "FID": 253,
+        "OBJECTID_1": 254,
+        "Name": "Cantagalo\u2013Pav\u00e3o\u2013Pav\u00e3ozinho",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3112.83387155,
+        "Country": "Brazil",
+        "Open_Close": 0,
+        "ORIG_FID": 253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.39852440640892,
+          -34.65456180203315
+        ]
+      },
+      "properties": {
+        "FID": 254,
+        "OBJECTID_1": 255,
+        "Name": "Villa 21 24",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6578.25705174,
+        "Country": "Argentina",
+        "Open_Close": 0,
+        "ORIG_FID": 254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.16535559814392,
+          14.05244401208757
+        ]
+      },
+      "properties": {
+        "FID": 255,
+        "OBJECTID_1": 256,
+        "Name": "Los Pinos",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 7256.60133437,
+        "Country": "Honduras",
+        "Open_Close": 0,
+        "ORIG_FID": 255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10.8065711712067,
+          6.326328391867781
+        ]
+      },
+      "properties": {
+        "FID": 256,
+        "OBJECTID_1": 257,
+        "Name": "West Point",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 4391.46038888,
+        "Country": "Liberia",
+        "Open_Close": 0,
+        "ORIG_FID": 256
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3413645476581304,
+          6.470377618078203
+        ]
+      },
+      "properties": {
+        "FID": 257,
+        "OBJECTID_1": 258,
+        "Name": "Amokoko",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6825.1152113,
+        "Country": "NIgeria",
+        "Open_Close": 0,
+        "ORIG_FID": 257
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.90799311712499,
+          -1.258932473914809
+        ]
+      },
+      "properties": {
+        "FID": 258,
+        "OBJECTID_1": 259,
+        "Name": "Mali Saba",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 3676.01513068,
+        "Country": "Kenya",
+        "Open_Close": 0,
+        "ORIG_FID": 258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.21391581860738162,
+          5.54079408259362
+        ]
+      },
+      "properties": {
+        "FID": 259,
+        "OBJECTID_1": 260,
+        "Name": "Usshertown",
+        "Yr_Mapped": 2017,
+        "Shape_Area": 6988.00905149,
+        "Country": "Ghana",
+        "Open_Close": 0,
+        "ORIG_FID": 259
+      }
+    }
+  ],
+  "metadata": {
+    "source_app_id": "110e3d637cce4fe7bc41c4e5cd3f9d21",
+    "source_layer_id": "Points_shapefile_7939",
+    "source_layer_title": "Points",
+    "geometry_type": "esriGeometryPoint",
+    "feature_count": 260
+  }
+}
