@@ -24,5 +24,30 @@ We applied a web-scraping algorithm to gather settlement profiles from the KYC w
 
 **cln_...:** Cleaned settlement boundaries and population counts formatted as a shapefile by city.
 
+## Atlas of Informality scrape
+The Atlas of Informality ArcGIS Online web map (`appid=110e3d637cce4fe7bc41c4e5cd3f9d21`) exposes settlement points and boundary layers that complement the KYC archives. To reproduce the scrape:
+
+1. Download the public WebMap JSON definition:
+   ```
+   curl -L -o data/atlas_of_informality_webmap.json \
+     "https://www.arcgis.com/sharing/rest/content/items/004efe9b9a2646b3b66625092771cf1e/data?f=pjson"
+   ```
+2. Convert the embedded feature collections to GeoJSON in WGS84:
+   ```
+   python tools/extract_atlas_of_informality.py \
+     --input data/atlas_of_informality_webmap.json \
+     --output-dir data/atlas_of_informality
+   ```
+
+The script writes three files:
+
+- `data/atlas_of_informality/atlas_of_informality_points.geojson` — 260 settlement centroids with `Name`, `Country`, `Yr_Mapped`, `Open_Close`, and other map attributes.
+- `data/atlas_of_informality/atlas_of_informality_fy_6.geojson` — 260 earlier settlement boundaries (field year) in polygon form.
+- `data/atlas_of_informality/atlas_of_informality_ly_6.geojson` — 260 later settlement boundaries (likely official updates) in polygon form.
+
+Each GeoJSON file includes metadata describing the source layer and retains the original attribute names so they can be cross-walked back to the ArcGIS Online item if needed.
+
+The AoI layers correspond to the workflow described in Samper et al. (2020) “The Paradox of Informal Settlements Revealed in an ATLAS of Informality” (`refs/sustainability-12-09510-v2.pdf`). In that study, researchers digitized each settlement twice: an initial perimeter traced from the oldest high-resolution imagery available (“first year”/Fy) and a most recent perimeter from the latest imagery (“last year”/Ly). Those paired polygons underpin the growth calculation `%Gy = (ALy – AFy) / (Ly – Fy)` (pp. 12–15 of the PDF), and they map directly to `atlas_of_informality_fy_6.geojson` (base footprint) and `atlas_of_informality_ly_6.geojson` (latest footprint). The points layer aggregates the settlement-level attributes (name, country, year mapped, status, etc.) that were validated during the AoI peer-review process before publishing the web map (same reference, pp. 12–14).
+
 ## Recommended citation
 Slum Dwellers International Profiling Teams. 2022. KnowYourCity data for research. Data processed by Dana R. Thomson and Hazem Mahmoud. Availalbe at: https://github.com/hazemmahmoud88/KnowYourCity-data-for-research.
